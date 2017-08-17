@@ -4,4 +4,4 @@ I realized I needed some data in the form of numbers to sonify it with musicalgo
 I played around with the different Overview settings and found the 'Entities' feature
 I used this to look at the countries mentioned in 552 documents from 1901-1911
 I then copied the numbers for each country (word count and number of documents it appears in) into an excel spreadsheet
-I then formatted it to be two different horizontal rows, to work with musicalgorithms
+I then formatted it to be two different horizontal rows in Notepad++, to work with musicalgorithms
