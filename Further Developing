@@ -1,0 +1,10 @@
+I realized that the data which Overview had given me about the countries mentioned in the Equity didn't really answer any questions
+It was all randomly bunched together and didn't give me any insight that could be understood through sonification
+I decided to return to my original idea of looking at how many times the Equity mentioned Norway Bay
+Of the 552 newspapers between 1901-1911, 123 of them mentioned Norway Bay
+I then copied down the dates which it was mentioned into a spreadsheet, set up into three columns for Year, Month, Date
+I formatted them in Notepad++ and placed them into Musicalgorithms 
+I realized that the years had to be represented as 1,2,3, etc... instead of 1901, 1902, 1903, etc... in order to be converted into music
+I inputed all three sets of data, the year, the month, and the date from each newspaper that mentioned Norway Bay, as separete voices
+I found that you could really hear the differences in frequency that the Equity mentioned Norway Bay 
+The sonification truly lets the relationships between the word and the dates become apparent
