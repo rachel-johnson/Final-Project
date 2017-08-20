@@ -1,0 +1,265 @@
+Country,Count,Docs
+Canada,"6,479",518
+Ireland,"1,506",511
+France,934,387
+Britain,922,387
+United States,896,363
+Russia,881,321
+Germany,834,355
+America,781,374
+Australia,512,259
+South Africa,440,209
+Great Britain,433,269
+Norway,396,239
+Columbia,357,212
+Italy ,346,239
+Spain,343,203
+Ceylon,336,204
+Austria,223,160
+Egypt,222,144
+Mexico,210,135
+Holland,190,129
+United Kingdom,174,122
+Switzerland,153,117
+Sweden,141,101
+Denmark,135,103
+Swiss,132,94
+New Zealand,117,83
+Persia,116,74
+Greece,109,91
+Belgium,103,88
+Norfolk,90,76
+Congo,87,44
+Brazil,79,58
+Panama,75,59
+Hungary,74,64
+Portugal,70,58
+Finland,57,35
+Gibraltar,57,42
+Albany,52,41
+Lau,49,46
+Malta,49,46
+Uganda,48,26
+Canada,47,46
+Israel,47,32
+Siam,47,36
+Sweden,46,34
+Jamaica,45,34
+Peru,44,42
+UAE,44,41
+Georgia,43,36
+Greenland,43,39
+Argentina,42,33
+Bermuda,41,34
+Haiti,41,41
+Cuba,39,30
+Philippines,39,34
+Korea,38,25
+Iceland,38,30
+Iran,38,36
+Palau,38,37
+Iran,36,35
+Bulgaria,35,23
+Poland,35,25
+Mali,33,32
+Rhodesia,32,21
+Hong Kong,31,27
+Martinique,31,22
+Oman,31,27
+Togo,30,17
+Afghanistan,29,24
+Abyssinia,26,21
+Fiji,26,22
+Burma,25,20
+Madagascar,25,20
+Palestine,25,22
+Britannia,24,23
+Tunis,24,19
+Argentina,21,16
+Vatican,21,19
+Nicaragua,20,12
+Algeria,18,17
+Indien,18,17
+Netherlands,18,16
+Nigeria,18,11
+Trinidad,17,11
+Guatemala,16,11
+India,16,16
+Syria,16,15
+Venezuela,16,15
+Argentine Republic,15,15
+Guernsey,15,11
+Macedonia,15,9
+Mauritius,15,10
+New Caledonia,15,13
+Servia,15,6
+Tonga,15,13
+Paraguay,14,9
+Finland,13,13
+Indo,13,11
+Mauretania,13,7
+Netherlands,13,11
+Chad,12,11
+Lao,12,12
+Roumania,12,11
+Somalis,11,5
+Honduras,10,9
+Japan,10,10
+Isle of Man,10,8
+Liberia,10,9
+Lusitania,10,8
+Montenegro,10,6
+Roumanie,10,9
+Albania,9,5
+Hong Kong,9,4
+Mesopotamia,9,5
+Porto Rico,9,9
+Uruguay,9,7
+Angora,8,8
+Colombia,8,8
+Ethiopia,8,6
+Guam,8,8
+Germany,8,8
+Laos,8,8
+Lebanon,8,5
+Monaco,8,7
+Mongolia,8,7
+Papua,8,3
+Samoa,8,8
+Sudan,8,8
+Francia,7,7
+Haiti,7,7
+Hindustan,7,6
+India,7,7
+United States,7,7
+Mongol,7,6
+St Lucia,7,5
+Bolivia,6,5
+Bosnia,6,6
+Brunei,6,6
+Dominica,6,5
+Filipino,6,5
+Gold Coast,6,5
+Guiana,6,6
+Australia,6,6
+Japan,6,6
+Panama,6,6
+India,5,5
+Barbadoes,5,5
+Burmah,5,2
+Domingo,5,3
+Ecuador,5,3
+Falkland Islands,5,4
+France,5,5
+Ireland,5,5
+Italie,5,5
+Niue,5,5
+Somali,5,4
+Spain,5,5
+Barbados,4,3
+Britain,4,4
+Congo Free State,4,4
+Cyprus,4,4
+Deutschland,4,4
+Dominique,4,4
+Hayti,4,4
+China,4,4
+Norway,4,4
+Lichtenstein,4,3
+Luxembourg,4,4
+Philippine Islands,4,4
+Russi,4,4
+Salvador,4,3
+Sierra Leone,4,4
+Uganda Protectorate,4,3
+United Kingdom of Great Britain,4,4
+Andorra,3,2
+Angola,3,2
+Armenia,3,3
+Bahamas,3,3
+Benin,3,3
+Commonwealth of Australia,3,3
+Danmark,3,2
+Faroe Islands,3,3
+Gabon,3,3
+Egypt,3,3
+Mexico,3,3
+Russia,3,3
+Spain,3,3
+Itali,3,3
+Italia,3,2
+Kongo,3,3
+Mexic,3,3
+Norfolk Island,3,3
+Norwe,3,2
+Rusi,3,3
+Russie,3,3
+Santo Domingo,3,2
+Senegal,3,3
+Chad,3,3
+United States of America,3,3
+Albani,2,2
+Andora,2,2
+Armensko,2,1
+Australie,2,2
+Bahama,2,2
+Bahama Islands,2,2
+Bermudas,2,2
+Bolivie,2,2
+Bonaire,2,2
+Brasilia,2,2
+British Guiana,2,2
+British Honduras,2,1
+Cambodia,2,1
+Costa Rica,2,2
+Dutch East Indies,2,2
+Etats Unis,2,1
+French Guiana,2,2
+French Guinea,2,1
+Gabo,2,2
+Gambia,2,2
+Georgie,2,2
+Germania,2,1
+Gilbert Islands,2,2
+Grenada,2,2
+Guadaloupe,2,2
+Helvetia,2,2
+India,2,1
+Denmark,2,2
+Haiti,2,2
+Turkey,2,2
+Japan,2,2
+German,2,2
+Jibuti,2,2
+Liechtenstein,2,2
+Luxembourg,2,2
+Macao,2,2
+Maly,2,2
+Mexique,2,2
+Moldavia,2,2
+Montserrat,2,2
+Nepal,2,2
+Norway,2,1
+Pitcairn Island,2,2
+Roman Empire,2,2
+Ruanda,2,1
+Romania,2,2
+Salomon,2,2
+Serbie,2,2
+South West Africa,2,2
+Swaziland,2,2
+Syrien,2,2
+Union of South Africa,2,2
+Zambie,2,2
+Anguilla,1,1
+Armenia,1,1
+Belarus,1,1
+Brasil,1,1
+Chille,1,1
+Croatia,1,1
+Ghana,1,1
+Greece,1,1
+Yemen,1,1
+Ivory Coast,1,1
+Kuwait,1,1
+Keelin Islands,1,1
